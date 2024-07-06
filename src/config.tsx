@@ -1,0 +1,1 @@
+export const DATABASE_URL="https://backend.hasanraza102515209.workers.dev"
